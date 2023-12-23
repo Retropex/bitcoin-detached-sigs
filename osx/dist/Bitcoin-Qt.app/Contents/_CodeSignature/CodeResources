@@ -116,13 +116,13 @@
 		<data>
 		YQJv5gL9G4tEKg00HGvXWe7HVIg=
 		</data>
-		<key>Resources/qt_pt_BR.qm</key>
-		<data>
-		XZQ/HWLmXTKdACn9bBHpqy4xlzU=
-		</data>
-		<key>Resources/qt_pt_PT.qm</key>
+		<key>Resources/qt_pt.qm</key>
 		<data>
 		zBErnJUTvPdJfzQXFotMip92QKk=
+		</data>
+		<key>Resources/qt_pt_BR.qm</key>
+		<data>
+		Pbu7O74sW6fSXiMVpT50yvpuWVE=
 		</data>
 		<key>Resources/qt_ru.qm</key>
 		<data>
@@ -355,18 +355,18 @@
 			vX3QwsqxGalz3BDDv/dJnZcouSi1QfhgVpIbMMjbeOY=
 			</data>
 		</dict>
-		<key>Resources/qt_pt_BR.qm</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7Pq4gLC/9Yqo7/LlvR+rUwp7SVxzohx94fUor8Mqf4U=
-			</data>
-		</dict>
-		<key>Resources/qt_pt_PT.qm</key>
+		<key>Resources/qt_pt.qm</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			LB57v1FopktDdS3UxUdgHAvebWEPhnH6PjrzhZfoR4M=
+			</data>
+		</dict>
+		<key>Resources/qt_pt_BR.qm</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1sDxj/n3g4M1Mis7Qs6dezKWCTLgJkUL5ekQ5lHiGyo=
 			</data>
 		</dict>
 		<key>Resources/qt_ru.qm</key>
